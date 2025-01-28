@@ -1,0 +1,26 @@
+
+
+
+
+.nav-item a{
+    color: #ffff;
+}
+.box{
+    height: 40rem;
+    margin: 20px;
+    background-color: black;
+    justify-content: center;
+}
+.box h1{
+    color: #fff;
+    align-items: center;
+}
+.box h4{
+    color: #fff;
+}
+.box p{
+    color: #ffff;
+}
+.card{
+    margin: 20px;
+}
